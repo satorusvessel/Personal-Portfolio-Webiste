@@ -1,4 +1,4 @@
-# [Shul Minds: HTML5 website](https://www.linkedin.com/in/abdella-munir-4674b4247)
+# [ሹል Minds: PORTFOLIO WEBSITE ](https://www.linkedin.com/in/abdella-munir-4674b4247)
 
 
 Shul minds is dedicated to create a global community where individuals from all walks of life can gather collaborate, and unleash their genius.  
