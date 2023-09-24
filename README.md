@@ -1,15 +1,15 @@
-# [Global: HTML5 website template](http://buckymaler.com/global)
+# [ሹል Minds: PORTFOLIO WEBSITE ](https://www.linkedin.com/in/abdella-munir-4674b4247)
 
-### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
 
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+Shul minds is dedicated to create a global community where individuals from all walks of life can gather collaborate, and unleash their genius.  
 
-The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
+ We believe that innovation knows no boundaries and that the best ideas can come from anyone,anywhere in the world.  
 
 This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
 Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
 
-[LIVE PREVIEW](http://buckymaler.com/global)
 
+## Misc:
 
+* Follow Abdella: [LinkedIn](https://www.linkedin.com/in/abdella-munir-4674b4247), [GitHub](https://github.com/Satorusvessel)
